@@ -1,0 +1,18 @@
+{
+  "name": "@swolecoder/counter-map-js",
+  "version": "1.0.0",
+  "description": "Counter to create a sorted map and compare JS objects ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swolecoder/Counter.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "author": "Ashish Ranjan",
+  "license": "ISC"
+}
